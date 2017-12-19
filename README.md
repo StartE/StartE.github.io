@@ -1,2 +1,2 @@
 # StartE.github.io
-# A blog made by Angular4 + primeng
+# A blog website made by Angular4 + primeng
